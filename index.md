@@ -1,6 +1,12 @@
-# dickzhoubao.tarikkochan.github.io
+# 迪克周报
 
-*Dick Wildly Shoot*
+**[第3刊：2024/12/1～7](newspapers/3/index.md)**
+
+**[第2刊：2024/11/24～30](newspapers/2/index.md)**
+
+**[第1刊：2024/11/17～23](newspapers/1/index.md)**
+
+---
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
