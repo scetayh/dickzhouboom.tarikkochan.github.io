@@ -1,4 +1,4 @@
-# dickzhoubao.tarikkochan.github.io - 迪克报社《迪克周报》托管仓库
+# 迪克报社《迪克周报》托管仓库
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
