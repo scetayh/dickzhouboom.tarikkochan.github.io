@@ -1,6 +1,10 @@
-# dickzhoubao.tarikkochan.github.io
+# *Dick Wildly Shoot*
 
-*Dick Wildly Shoot*
+Publication: **Dick Newspaper Office**
+
+Major editing: **[AyariaPrescott](https://github.com/AyariaPrescott/Pis-Oledui)**
+
+Trustee: **[Yukikusa_Tarikko-ScetayhChan](https://github.com/scetayh)**
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 

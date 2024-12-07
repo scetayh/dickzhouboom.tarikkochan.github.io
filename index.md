@@ -1,4 +1,12 @@
-# 迪克周报
+# **迪克周报**
+
+---
+
+出版　**迪克报社**
+
+主编　**[AyariaPrescott](https://github.com/AyariaPrescott/Pis-Oledui)**
+
+托管　**[幸草](https://github.com/scetayh)**
 
 **[第3刊：2024/12/1～7](3/index.md)**
 
