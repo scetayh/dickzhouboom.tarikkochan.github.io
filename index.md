@@ -1,20 +1,23 @@
 # **迪克周报**
 
----
-
 出版　**迪克报社**
 
-主编　**[AyariaPrescott](https://github.com/AyariaPrescott/Pis-Oledui)**
-
-托管　**[幸草](https://github.com/scetayh)**
-
-**[第3刊：2024/12/1～7](3/index.md)**
-
-**[第2刊：2024/11/24～30](2/index.md)**
-
-**[第1刊：2024/11/17～23](1/index.md)**
+主编　**AyariaPrescott**
 
 ---
+
+- **[第3刊：2024/12/1～7](3/index.md)**
+
+- **[第2刊：2024/11/24～30](2/index.md)**
+
+- **[第1刊：2024/11/17～23](1/index.md)**
+
+---
+
+[https://dickzhoubao.tarikkochan.top]
+[https://dickzhoubao.tarikkochan.github.io]
+
+Trustee: **Yukikusa**
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
