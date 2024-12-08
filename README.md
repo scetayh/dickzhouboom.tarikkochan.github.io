@@ -1,4 +1,4 @@
-# *Dick Wildly Shoot*
+# *DIck Zhou Boom*
 
 Publication: **Dick Newspaper Office**
 
