@@ -14,9 +14,7 @@
 
 ---
 
-[https://dickzhoubao.tarikkochan.top](https://dickzhoubao.tarikkochan.top)
-
-[https://dickzhoubao.tarikkochan.github.io](https://dickzhoubao.tarikkochan.top)
+[https://dickzhouboom.tarikkochan.top](https://dickzhouboom.tarikkochan.top)
 
 Trustee: **Yukikusa**
 
