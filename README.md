@@ -31,11 +31,11 @@ This work is licensed under a
 
 [Dick Zhou Boom Hosting Site](https://dickzhouboom.tarikkochan.top) © 2024 by YucoisaSuinnay is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-This site only manages the original work.
+This site only hosts original works.
 
-Any digital works on this site follow the same license as the original one does.
+Any digital works on this site follow the same license as original ones does.
 
-**Site Address**: [https://dickzhouboom.tarikkochan.top](https://dickzhouboom.tarikkochan.top)
+**Site address**: [https://dickzhouboom.tarikkochan.top](https://dickzhouboom.tarikkochan.top)
 
 [https://dickzhouboom.tarikkochan.github.io](https://dickzhouboom.tarikkochan.github.io)
 
@@ -44,4 +44,3 @@ This site is based on GitHub Pages.
 **Github repository address**: [https://github.com/scetayh/dickzhouboom.tarikkochan.github.io](https://github.com/scetayh/dickzhouboom.tarikkochan.github.io)
 
 You are welcome to commit Pull Requests.
-
