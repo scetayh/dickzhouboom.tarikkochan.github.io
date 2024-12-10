@@ -25,11 +25,11 @@ This work is licensed under a
 [cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
 [cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
 
-—--
+---
 
-[Dick Zhou Boom](https://dickzhouboom.tarikkochan.top) © 2024 by AyariaPrescott, Dick Newspaper Office is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[Dick Zhou Boom](https://dickzhouboom.tarikkochan.top) © 2024 by AyariaPrescott, Dick Wildly Shoot is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-[Dick Zhou Boom Hosting Site](https://dickzhouboom.tarikkochan.top) © 2024 by YukikusaSuinney is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[Dick Zhou Boom Hosting Site](https://dickzhouboom.tarikkochan.top) © 2024 by YucoisaSuinnay is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 This site only manages the original work.
 
