@@ -1,6 +1,6 @@
 # **迪克周报**托管站点
 
-### **[报纸](/newspaper)**
+### **[报纸](/newspaper/index.md)**
 
 - **[第3刊　2024/12/1 - 2024/12/7](/newspaper/3/index.md)**
 - **[第2刊　2024/11/24 - 2024/11/30](/newspaper/2/index.md)**
