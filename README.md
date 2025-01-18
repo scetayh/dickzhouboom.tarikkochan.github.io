@@ -29,7 +29,7 @@ This work is licensed under a
 
 [Dick Zhou Boom](https://dickzhouboom.tarikkochan.top) © 2024 by AyariaPrescott, Dick Wildly Shoot is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-[Dick Zhou Boom Hosting Site](https://dickzhouboom.tarikkochan.top) © 2024 by YucoisaSuinnay is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[Dick Zhou Boom Hosting Site](https://dickzhouboom.tarikkochan.top) © 2024 by Yucoisa Suinnay (采裕) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 This site only hosts original works.
 
